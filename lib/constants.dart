@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const kButtoncolors1 = Color(0xff100B20);
+const kButtoncolors = Color(0xff1F2138);
+const kFavoiteCollection = 'favorite';
+const kProductCollection = 'Cart';
+const kOrderCollection = 'Order';
+const kProductname = 'title';
+const kProductprice = 'price';
+const kProductid = 'id';
+const kProductimage = 'image';
+const kProductdescription = 'description';
+const korderTime = 'time';
+const korderamount = 'amount';
+const kuserAddress = 'address';
+const kusernames = 'username';
+const kuseremail = 'emial';
+const kuserpassword = 'passwprd';
+const kuserurl = 'url';
+const kuserinfo = 'users';
